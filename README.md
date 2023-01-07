@@ -1,0 +1,2 @@
+# carta
+Práctica 
